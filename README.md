@@ -1,2 +1,0 @@
-# aequilibrium
-testcases for login 
